@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Sphinx HelloWorld
+Sphinx HelloWorld v2
 ===============================
 
 .. warning::
@@ -13,7 +13,7 @@ Sphinx HelloWorld
    这是一个note
 
 .. code-block:: bash
-   
+
    $ # 这是一个shell
 
 
